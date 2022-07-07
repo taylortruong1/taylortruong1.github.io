@@ -1,0 +1,85 @@
+/*CSS*/
+* {margin 0; padding: 0; }
+
+.up-left{
+    position: relative;
+    left: 200px;
+    bottom: 190px;
+    border: 180px solid transparent;
+    border-right-color: lightgray;
+    width: 0;
+    height:0;
+    transform: rotate(45deg);
+}
+
+.black-triangle{
+    position: relative;
+    bottom: 420px;
+    right: 100px;
+    border: 300px solid transparent;
+    border-right-color: black;
+    padding: 90px;
+    width: 0;
+    height: 0;
+}
+
+.bottom-left{
+    position: relative;
+    left: 380px;
+    bottom: 720px;
+    border: 150px solid transparent;
+    border-left-color: orange;
+    border-bottom-color: antiquewhite;
+    width: 0;
+    height: 0;
+}
+
+.light-grey{
+    position: relative;
+    bottom: 1550px;
+    left: 680px;
+    border: 280px solid transparent;
+    border-left-color: antiquewhite;
+    width: 0;
+    height: 0;
+}
+
+.dark-grey{
+    position: relative;
+    bottom: 2030px;
+    left: 760px;
+    border: 200px solid transparent;
+    border-top-color: grey;
+    width: 0;
+    height:0;
+}
+
+.red{
+    position: relative;
+    bottom: 2420px;
+    left: 210px;
+    border: 470px solid transparent;
+    border-right-color: red;
+    width: 0;
+    height: 0;
+}
+
+.grey{
+    position: relative;
+    bottom: 2890px;
+    left: 680px;
+    border: 280px solid transparent;
+    border-left-color: lightgrey;
+    width: 0;
+    height: 0;
+}
+
+.white{
+    position: relative;
+    bottom: 3180px;
+    left: 680px;
+    width: 480px;
+    height: 300px;
+    background-color: white;
+
+}
